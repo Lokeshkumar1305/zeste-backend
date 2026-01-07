@@ -1,0 +1,2 @@
+bathai = "bathai"
+print(bathai)
